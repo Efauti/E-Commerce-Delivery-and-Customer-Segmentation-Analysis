@@ -60,8 +60,5 @@ Additionally, the company seeks to analyze customer behavior to uncover high-val
 
 ## 6. SQL Queries  
 
-- [Delivery Performance](delivery_performance.sql)  
-- [Customer Segmentation](customer_segmentation.sql)  
-- [Order Anomaly Detection](order_anomalies.sql)  
-
+- [SQL Queries](queries/e_commerce_analysis.sql)
 
