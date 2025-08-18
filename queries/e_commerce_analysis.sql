@@ -187,9 +187,23 @@ Insights:
 - September and October saw a complete halt in orders.
 */
 
+-- ==========================================================
+-- 5. MONTHLY AVERAGE REVIEWS
+-- ==========================================================
+
+SELECT 
+    DATE_FORMAT(review_creation_date, '%Y-%m') AS YearMonth,
+    AVG(review_score) AS Average_Review_Score
+FROM
+    reviews
+GROUP BY YearMonth;
+/*
+Review scores remained strong with the last five months averaging 4.1 or higher.
+*/
+
 
 -- ==========================================================
--- 5. LAST ORDER 
+-- 6. FINAL ORDER 
 -- ==========================================================
 
 -- Latest Order
