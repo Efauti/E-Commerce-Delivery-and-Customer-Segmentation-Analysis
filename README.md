@@ -40,8 +40,8 @@ Additionally, the company seeks to analyze customer behavior to uncover high-val
 
 ### Customer Satisfacton
 - Review scores remained strong.
-- The last four months averaged 4.1 or higher, indicating consistent customer satisfaction even before the drop-off.
-
+- The last four months before the drop-off averaged a 4.1 score or higher, indicating consistent customer satisfaction.
+  
 ### Uncompleted Orders  
 - 1,316 orders (1.16%) were cancelled or unavailable.  
 - All uncompleted orders were overdue, except one with the dataset’s latest delivery date (also cancelled).  
