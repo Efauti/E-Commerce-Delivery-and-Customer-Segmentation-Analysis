@@ -36,7 +36,11 @@ Additionally, the company seeks to analyze customer behavior to uncover high-val
 ### Order Anomaly  
 - September–October 2018 saw a **sharp drop-off in orders**.  
 - All orders during this period were cancelled except one (also not completed).  
-- Represents a critical operational or market disruption despite being the company’s best overall year.  
+- Represents a critical operational or market disruption despite being the company’s best overall year.
+
+### Customer Satisfacton
+- Review scores remained strong.
+- The last four months averaged 4.1 or higher, indicating consistent customer satisfaction even before the drop-off.
 
 ### Uncompleted Orders  
 - 1,316 orders (1.16%) were cancelled or unavailable.  
